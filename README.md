@@ -3,3 +3,6 @@ Blockchain-based digital real estate. Parcels of digital land on the dal (moon),
 
 
 "Your vision is endless, because it is only limited by your own investment!"
+
+
+Each parcel of land is completely destructible within your own property
